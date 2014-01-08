@@ -112,8 +112,6 @@
 		969C232A183A1EF100ACADB4 /* HelloWorld */ = {
 			isa = PBXGroup;
 			children = (
-				969C2333183A1EF100ACADB4 /* HelloWorldAppDelegate.h */,
-				969C2334183A1EF100ACADB4 /* HelloWorldAppDelegate.m */,
 				969C2336183A1EF100ACADB4 /* Main.storyboard */,
 				969C2339183A1EF100ACADB4 /* HelloWorldViewController.h */,
 				969C233A183A1EF100ACADB4 /* HelloWorldViewController.m */,
@@ -126,6 +124,8 @@
 		969C232B183A1EF100ACADB4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				969C2333183A1EF100ACADB4 /* HelloWorldAppDelegate.h */,
+				969C2334183A1EF100ACADB4 /* HelloWorldAppDelegate.m */,
 				969C232C183A1EF100ACADB4 /* HelloWorld-Info.plist */,
 				969C232D183A1EF100ACADB4 /* InfoPlist.strings */,
 				969C2330183A1EF100ACADB4 /* main.m */,

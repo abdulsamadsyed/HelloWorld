@@ -9,5 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface HelloWorldViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UILabel *helloWorldLabel;
+- (IBAction)pressMeClicked:(UIButton *)sender;
+
 
 @end

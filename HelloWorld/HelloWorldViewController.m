@@ -26,4 +26,7 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)pressMeClicked:(UIButton *)sender {
+    self.helloWorldLabel.text = @"Hello world";
+}
 @end
